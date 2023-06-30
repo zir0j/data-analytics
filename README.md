@@ -15,4 +15,8 @@ Data Analysis using Python and SQL. Subsequent PDF documents have also been uplo
     <td>LGBTQIA in EU and Workplace Laws</td>
     <td>A short statistical analysis of laws against workplace discrimination against one's SOGIE within the EU</td>
   </tr>
+  <tr>
+    <td>DigiDB</td>
+    <td>A short descriptive analysis of a dataset of Digimons using SQLite</td>
+  </tr>
 </table>
