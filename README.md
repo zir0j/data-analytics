@@ -12,7 +12,7 @@ Data Analysis using Python and SQL. Subsequent PDF documents have also been uplo
     <td>A refresher on the use of Python libraries, NumPy and Pandas, to obtain descriptive analysis on cereals.</td>
   </tr>
   <tr>
-    <td>LGBTQIA in EU and Workplace Laws</td>
+    <td>LGBTQIA in EU and Workplace</td>
     <td>A short statistical analysis of laws against workplace discrimination against one's SOGIE within the EU</td>
   </tr>
   <tr>
