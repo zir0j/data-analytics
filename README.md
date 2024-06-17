@@ -19,4 +19,8 @@ Data Analysis using Python and SQL. Subsequent PDF documents have also been uplo
     <td>DigiDB</td>
     <td>A short descriptive analysis of a dataset of Digimons using SQLite</td>
   </tr>
+  <tr>
+    <td>Carbon Emissions throughout the Decades</td>
+    <td>Short descriptive analysis of carbon emission data using <a href="https://carbonmajors.org/evoke/391/get_cm_file?type=Basic&file=emissions_medium_granularity.csv">Carbon Major's data</a></td>
+  </tr>
 </table>
